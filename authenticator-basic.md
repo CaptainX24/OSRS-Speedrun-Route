@@ -90,7 +90,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Buy ~20 wines and chronicle + 5 teleports
     - **[BANK]**: Air talisman, chronicle
 - Run to Wizard's tower.
-- Talk to Wizard for RM.
+- Talk to Wizard for RM **[3,1,1]?**.
 - Grab skull.
 - **[Deathwarp]** on wizard with package, skull, chronicle.
     - **[Split]**
@@ -152,7 +152,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
     - **[Split]**
 - Deathwarp on palace guards.
 - Run to Draynor Bank
-    - **[BANK]**: Mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, ~10 wines.
+    - **[BANK]**: Mage gear, all runes, mind bomb, stake, hammer, garlic, 8-10 wines.
 - Run to Draynor Manor.
 - Start ETC (fish food, poison, oil can, VS, spade, compost heap, fountain, rubber tube).
 - ETC lever puzzle **[BA, D, BA, EF, C, E]**.
@@ -166,7 +166,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Bank at Fally east.
     - **[BANK]**: Spade, chronicle, cadava berries, cabbage, dyes, iron chain, bronze med and 4 wines
 - Finish PT.
-- Start BKF **[1,1]**.
+- Start BKF **[1,1,1]**.
 - Run to BKF.
 - Hidden route, then door, drop cabbage down hole.
 - Run through wilderness to GD.
